@@ -28,6 +28,7 @@ The code is written in Python and utilizes libraries such as Keras, TensorFlow, 
 - Model training and evaluation
 - Text extraction from document files (.docx) and images (.png) using EasyOCR
 
+//
 ## Directory Structure
 ML_Project/
 ├── data/
@@ -43,17 +44,17 @@ ML_Project/
 │ └── your_script.py
 ├── README.md
 └── .gitignore
-
+//
 
 ## Usage
 1. Clone the repository to your local machine.
 2. Navigate to the root directory.
 3. Install the required dependencies (`requirements.txt`).
-4. Run the Jupyter Notebook (`your_notebook.ipynb`) or execute the Python script (`your_script.py`).
+4. Run the Jupyter Notebook (`your_notebook.ipynb`) or execute the Python script (`MetadataExtraction.py`).
 5. Evaluate the model's performance using the provided dataset.
 
 ## License
-[MIT License](LICENSE)
+[Creative Commons](LICENSE)
 
 ## Acknowledgements
 - This project utilizes the EasyOCR library for text extraction from images.
