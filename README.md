@@ -59,13 +59,10 @@ ML_Project/
 ## Acknowledgements
 - This project utilizes the EasyOCR library for text extraction from images.
 - The machine learning models are built using TensorFlow and Keras.
-- We acknowledge the contributions of the scikit-learn library for providing useful tools for model evaluation.
-- Special thanks to the creators and maintainers of the pandas library for facilitating data manipulation and analysis.
-- We appreciate the efforts of the NumPy community for providing essential functionalities for numerical computing.
-- The Matplotlib and Seaborn libraries were used for data visualization, enriching the analysis process.
+- We acknowledge the contributions of the scikit-learn, Matplotlib, pandas and NumPy libraries for providing useful tools for model evaluation.
 - The authors of the OpenAI GPT-3.5 model, which powers the language model providing assistance in this project.
 - We extend our gratitude to the GitHub community for providing a platform for collaboration and version control.
-- Our thanks to all contributors, developers, and maintainers of open-source projects that have indirectly supported this work.
+- My thanks to all contributors, developers, and maintainers of open-source projects that have indirectly supported this work.
 
 Feel free to contribute, report issues, or provide feedback!
 
