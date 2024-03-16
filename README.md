@@ -28,7 +28,7 @@ The code is written in Python and utilizes libraries such as Keras, TensorFlow, 
 - Model training and evaluation
 - Text extraction from document files (.docx) and images (.png) using EasyOCR
 
-//
+```
 ## Directory Structure
 ML_Project/
 ├── data/
@@ -44,7 +44,7 @@ ML_Project/
 │ └── your_script.py
 ├── README.md
 └── .gitignore
-//
+```
 
 ## Usage
 1. Clone the repository to your local machine.
