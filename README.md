@@ -50,7 +50,7 @@ ML_Project/
 1. Clone the repository to your local machine.
 2. Navigate to the root directory.
 3. Install the required dependencies (`requirements.txt`).
-4. Run the Jupyter Notebook (`your_notebook.ipynb`) or execute the Python script (`MetadataExtraction.py`).
+4. Run the Jupyter Notebook (`Meta Data Extraction from Documents.ipynb`) or execute the Python script (`MetadataExtraction.py`).
 5. Evaluate the model's performance using the provided dataset.
 
 ## License
